@@ -1,5 +1,7 @@
 # SALLEDISPO - GESTIONNAIRE DE SALLES EN TEMPS REEL
 
+[![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/johanheurtebisepro/salledispo-v1?utm_source=readme&utm_medium=badge)
+
 ## DESCRIPTION
 
 SalleDispo est une application web intelligente destinée aux IUT et Universités. Elle permet aux étudiants et au personnel de trouver instantanément une salle libre pour travailler, en agrégeant et en analysant les emplois du temps (fichiers ICS) de l'établissement en temps réel.
@@ -20,8 +22,6 @@ SalleDispo centralise ces données dans une interface web responsive :
 * Calcul en temps réel de l'occupation (Libre / Occupé / Bientôt occupée).
 * Affichage des équipements (PC, Projecteur) et de la localisation (dépend du fonctionnement des noms de salle de chaque établissement).
 * Système collaboratif simple de signalement d'incidents matériels.
-
-[![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/johanheurtebisepro/salledispo-v1?utm_source=readme&utm_medium=badge)
 
 ---
 
