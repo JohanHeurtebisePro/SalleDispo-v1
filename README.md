@@ -21,6 +21,8 @@ SalleDispo centralise ces données dans une interface web responsive :
 * Affichage des équipements (PC, Projecteur) et de la localisation (dépend du fonctionnement des noms de salle de chaque établissement).
 * Système collaboratif simple de signalement d'incidents matériels.
 
+[![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/johanheurtebisepro/salledispo-v1?utm_source=readme&utm_medium=badge)
+
 ---
 
 ## FONCTIONNALITES CLES
